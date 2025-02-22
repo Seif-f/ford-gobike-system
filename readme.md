@@ -1,5 +1,4 @@
-# Communicating Data Findings - Ford GoBike System Data
-## by Rodrigo Brust
+#  Ford GoBike System Data
 
 
 ## Dataset
